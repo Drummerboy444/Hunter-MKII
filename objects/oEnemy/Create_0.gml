@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-SetupUnit(4, oHunter, UnitMode.FOLLOW);
+SetupUnit(2, oHunter, UnitMode.FOLLOW);
