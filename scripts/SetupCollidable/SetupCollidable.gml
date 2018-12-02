@@ -6,4 +6,4 @@ maxMovementSpeed = argument[0];
 target = argument[1];
 unitMode = argument[2];
 
-SetupCollidable(maxMovementSpeed, target, unitMode);
+SetupUnit(maxMovementSpeed, target, unitMode);
