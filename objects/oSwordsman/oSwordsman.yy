@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSwordsman",
     "eventList": [
-        
+        {
+            "id": "9da2c4dd-bc46-4099-a1d1-6a20453b8877",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ca0e343e-7f6e-4276-8ce0-52ff07e059fa"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
