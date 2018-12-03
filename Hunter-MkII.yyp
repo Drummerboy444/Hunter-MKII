@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "0ce9bc89-3051-4af4-b8b6-adeb31cb922f",
-            "Value": {
-                "id": "dc935cfc-e6bf-4217-b0f8-c87a39d64206",
-                "resourcePath": "views\\0ce9bc89-3051-4af4-b8b6-adeb31cb922f.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "0e2bca30-0dda-4779-8c18-9c702710fd91",
             "Value": {
                 "id": "f7d899a5-5a1b-48c0-8023-b3c223102034",
@@ -84,14 +76,6 @@
                 "id": "6168669c-164f-48ad-8c73-993835aae838",
                 "resourcePath": "sprites\\sSwordsman\\sSwordsman.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "189b1aa8-f58c-4f54-9dff-4ccb0cd949a6",
-            "Value": {
-                "id": "7a66114f-7dab-428c-b235-14d47d689556",
-                "resourcePath": "views\\189b1aa8-f58c-4f54-9dff-4ccb0cd949a6.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -167,14 +151,6 @@
             }
         },
         {
-            "Key": "677d1c38-7318-4188-b420-eafa21702db2",
-            "Value": {
-                "id": "f0f40294-1245-4720-9600-82410fd83cde",
-                "resourcePath": "views\\677d1c38-7318-4188-b420-eafa21702db2.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "67d81dfb-55da-4ee7-a858-47adeb8d592c",
             "Value": {
                 "id": "8c556cec-4e01-40c5-a1b1-00e76052c85b",
@@ -187,6 +163,14 @@
             "Value": {
                 "id": "ddafbc93-1cd4-4083-a395-e05fd5c87904",
                 "resourcePath": "views\\7657c1e4-1d30-4b52-b53e-a03d6b923dce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7935810b-0c59-4672-8f73-6bfa24ce94fb",
+            "Value": {
+                "id": "c53c8ba7-5b44-4a1e-8c88-cd6006e2a6ae",
+                "resourcePath": "views\\7935810b-0c59-4672-8f73-6bfa24ce94fb.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -418,8 +402,8 @@
     "script_order": [
         "67d81dfb-55da-4ee7-a858-47adeb8d592c",
         "c4edff84-2a42-4fc8-a30d-0bc00122a9ab",
-        "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
         "98123fa4-aae4-491e-840d-da731baf221e",
+        "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
         "a2dee8f8-9c42-4f5f-bf5b-bbe63ba8366c",
         "ad89a4c8-fe00-442e-9288-1d7074c6a88c",
         "c163cbd9-782a-4042-a015-07f01d4cda96",
