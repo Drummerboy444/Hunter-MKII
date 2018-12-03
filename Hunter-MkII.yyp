@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "a2dee8f8-9c42-4f5f-bf5b-bbe63ba8366c",
+            "Value": {
+                "id": "78b34828-4c04-475a-8c02-994952bc4947",
+                "resourcePath": "scripts\\IsSolidFollow\\IsSolidFollow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a94f3b28-e888-4f4a-934b-80c54a36a742",
             "Value": {
                 "id": "1b9e84b7-ebd8-43fb-9739-e134f6da54dd",
@@ -236,6 +244,14 @@
                 "id": "fe4183e9-73ef-4396-a9ef-620bb5940443",
                 "resourcePath": "views\\ab299eba-de23-4ce1-b0ac-09dc99b870d0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad89a4c8-fe00-442e-9288-1d7074c6a88c",
+            "Value": {
+                "id": "46839642-7045-4882-9a78-4ca435a864c4",
+                "resourcePath": "scripts\\MaxXDistance\\MaxXDistance.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "c163cbd9-782a-4042-a015-07f01d4cda96",
+            "Value": {
+                "id": "ca3aa57d-ac6b-4ffc-9455-dfe933f768cf",
+                "resourcePath": "scripts\\MaxYDistance\\MaxYDistance.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c4edff84-2a42-4fc8-a30d-0bc00122a9ab",
             "Value": {
                 "id": "c6aaaa9d-372f-434c-a1df-87413d886417",
@@ -315,6 +339,14 @@
             "Value": {
                 "id": "36b7c91e-ae8f-4ed3-b85b-915da8b6aa6a",
                 "resourcePath": "views\\d7c3cdca-7a8d-4210-9c75-7696b8e9466f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d99a253e-724c-4d0a-8a66-04d940f3c89b",
+            "Value": {
+                "id": "e9098376-0a7e-44a7-9b47-a5e0e2a029a7",
+                "resourcePath": "views\\d99a253e-724c-4d0a-8a66-04d940f3c89b.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -359,6 +391,14 @@
             }
         },
         {
+            "Key": "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
+            "Value": {
+                "id": "14dc54c4-b510-4850-8519-d6a6d583d7fb",
+                "resourcePath": "scripts\\IsSolidMove\\IsSolidMove.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f3f55ccc-c1c2-40be-adff-56f94e351e3d",
             "Value": {
                 "id": "7c9ff3d0-f9ed-4731-babf-4fdebb73f0b1",
@@ -377,8 +417,12 @@
     ],
     "script_order": [
         "67d81dfb-55da-4ee7-a858-47adeb8d592c",
-        "98123fa4-aae4-491e-840d-da731baf221e",
         "c4edff84-2a42-4fc8-a30d-0bc00122a9ab",
+        "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
+        "98123fa4-aae4-491e-840d-da731baf221e",
+        "a2dee8f8-9c42-4f5f-bf5b-bbe63ba8366c",
+        "ad89a4c8-fe00-442e-9288-1d7074c6a88c",
+        "c163cbd9-782a-4042-a015-07f01d4cda96",
         "b64a1f1b-6a8f-4997-bc44-80148796316e",
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
         "a94f3b28-e888-4f4a-934b-80c54a36a742"

@@ -1,9 +1,17 @@
 switch (unitMode) {
 	case UnitMode.MOVE:
-		Move(movementSpeed, movementAngle);
+		if (isSolid) {
+			IsSolidMove(movementSpeed, movementAngle);
+		} else {
+			Move(movementSpeed, movementAngle);
+		}
 		break;
 	case UnitMode.FOLLOW:
-		Follow(target);
+		if (isSolid) {
+			IsSolidFollow(target);
+		} else {
+			Follow(target);
+		}
 		break;
 	case UnitMode.IDLE:
 		break;
