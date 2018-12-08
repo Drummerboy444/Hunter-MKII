@@ -3,7 +3,7 @@
 var target = argument[0];
 
 
-if (target != noone) {
+if (instance_exists(target)) {
 	var distance = point_distance(x, y, target.x, target.y);
 	if (distance > followBufferDistance) {
 		var angle = point_direction(x, y, target.x, target.y);

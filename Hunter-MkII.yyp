@@ -319,11 +319,27 @@
             }
         },
         {
+            "Key": "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
+            "Value": {
+                "id": "57266cfc-20f1-4225-9f06-f787774e4190",
+                "resourcePath": "scripts\\HunterDeathScript\\HunterDeathScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ca0e343e-7f6e-4276-8ce0-52ff07e059fa",
             "Value": {
                 "id": "f732aa50-3d28-4659-8670-7a6a101c929b",
                 "resourcePath": "objects\\oSwordsman\\oSwordsman.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb865fb2-327c-4443-a65b-eb74f861e4c9",
+            "Value": {
+                "id": "86ffef04-3182-4148-95b7-80849310c846",
+                "resourcePath": "scripts\\DefaultDeathScript\\DefaultDeathScript.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -441,7 +457,9 @@
         "c163cbd9-782a-4042-a015-07f01d4cda96",
         "b64a1f1b-6a8f-4997-bc44-80148796316e",
         "af6ea8b4-e3f0-4990-a1ff-806e490399e8",
+        "cb865fb2-327c-4443-a65b-eb74f861e4c9",
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
+        "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
         "a94f3b28-e888-4f4a-934b-80c54a36a742"
     ],
     "tutorial": ""

@@ -9,4 +9,4 @@ var unitMode = argument[2];
 var maxHealth = argument[3];
 
 
-SetupHealthy(maxMovementSpeed, target, unitMode, maxHealth);
+SetupHealthy(maxMovementSpeed, target, unitMode, maxHealth, DefaultDeathScript);
