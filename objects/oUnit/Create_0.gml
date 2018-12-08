@@ -1,5 +1,5 @@
 // --- Movement ---
-maxMovementSpeed = 3;
+maxMovementSpeed = 0;
 movementSpeed = 0;
 movementAngle = 0;
 
