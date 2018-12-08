@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-SetupCollidable(3, noone, UnitMode.MOVE);
+SetupHealthy(3, noone, UnitMode.MOVE, 20, HunterDeathScript);

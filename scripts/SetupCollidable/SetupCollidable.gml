@@ -1,4 +1,4 @@
-/// @description SetupEnemy(maxMovementSpeed, target, unitMode) Helper script for setting the import variables of a collidable.
+/// @description SetupEnemy(maxMovementSpeed, target, unitMode) Helper script for setting the important variables of a collidable.
 /// @arg maxMovementSpeed The maximum movement speed of the collidable
 /// @arg target The target unit should the collidable be following something
 /// @arg unitMode The collidable's starting unit mode

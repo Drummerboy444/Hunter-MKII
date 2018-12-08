@@ -1,6 +1,4 @@
 /// @description WASDMove() Sets the movement and speed of the calling object based on WASD input
-
-
 var up    = keyboard_check(ord("W"));
 var down  = keyboard_check(ord("S"));
 var left  = keyboard_check(ord("A"));
