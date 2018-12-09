@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "8846aa73-4bcd-4a64-9c19-5e049fe318d9",
+            "Value": {
+                "id": "8dc2b5a9-8257-4149-8504-5fe7113ec8a2",
+                "resourcePath": "objects\\oDamageController\\oDamageController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "89b0c1ac-7315-455e-a486-fd1d3a94e003",
             "Value": {
                 "id": "e875b4ab-5998-4b7b-91a2-932d989ffcd6",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
+            "Value": {
+                "id": "95ac7b22-5154-416f-abb1-a37b93b7f333",
+                "resourcePath": "scripts\\AddToDamageGrid\\AddToDamageGrid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ca0e343e-7f6e-4276-8ce0-52ff07e059fa",
             "Value": {
                 "id": "f732aa50-3d28-4659-8670-7a6a101c929b",
@@ -355,6 +371,14 @@
             "Value": {
                 "id": "65744874-0c37-4ee2-8559-55275874c87f",
                 "resourcePath": "views\\d3738457-881e-4f12-ae58-bc0e9ec60011.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7bdbe2f-f22a-4406-a133-365a2b8fedbc",
+            "Value": {
+                "id": "07d355f7-6fb9-4e96-8042-dbc48b9f7927",
+                "resourcePath": "views\\d7bdbe2f-f22a-4406-a133-365a2b8fedbc.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -460,7 +484,8 @@
         "cb865fb2-327c-4443-a65b-eb74f861e4c9",
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
-        "a94f3b28-e888-4f4a-934b-80c54a36a742"
+        "a94f3b28-e888-4f4a-934b-80c54a36a742",
+        "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36"
     ],
     "tutorial": ""
 }
