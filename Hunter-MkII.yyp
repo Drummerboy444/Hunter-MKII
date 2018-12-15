@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "9460372f-ca76-4c14-8f75-bca27ba20573",
+            "Value": {
+                "id": "fd55a8bb-54ac-44dd-a5b1-75d9e70702ca",
+                "resourcePath": "views\\9460372f-ca76-4c14-8f75-bca27ba20573.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "98123fa4-aae4-491e-840d-da731baf221e",
             "Value": {
                 "id": "e4ca6bfc-fe3f-4f4b-a1b4-076232c4295d",
@@ -279,11 +287,27 @@
             }
         },
         {
+            "Key": "b2067680-c84a-4106-a8fd-6338f02849ba",
+            "Value": {
+                "id": "f72a8c23-acd7-4567-ba8b-ca63599e444e",
+                "resourcePath": "scripts\\DeleteRow\\DeleteRow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b3609c4b-e58f-4407-adfb-406bb52f7f60",
             "Value": {
                 "id": "9c1e317e-9085-45d7-aa97-90191eb0fac9",
                 "resourcePath": "views\\b3609c4b-e58f-4407-adfb-406bb52f7f60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b394ef12-fc54-4fa9-8b19-aacdc7969a17",
+            "Value": {
+                "id": "38b2a5b1-f9f5-4807-bc86-57a6c18faf94",
+                "resourcePath": "scripts\\UpdateDamageGrid\\UpdateDamageGrid.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -439,6 +463,14 @@
             }
         },
         {
+            "Key": "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
+            "Value": {
+                "id": "c1ccfb3e-0249-4c4a-b243-662e025fb416",
+                "resourcePath": "scripts\\DealDamage\\DealDamage.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
             "Value": {
                 "id": "14dc54c4-b510-4850-8519-d6a6d583d7fb",
@@ -485,7 +517,10 @@
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
         "a94f3b28-e888-4f4a-934b-80c54a36a742",
-        "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36"
+        "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
+        "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
+        "b394ef12-fc54-4fa9-8b19-aacdc7969a17",
+        "b2067680-c84a-4106-a8fd-6338f02849ba"
     ],
     "tutorial": ""
 }
