@@ -5,7 +5,7 @@
 with (oDamageController) {
 	var height = ds_grid_height(damageGrid);
 	
-	for (var i  = 0; i < height; i++) {
+	for (var i = height - 1; i >= 0; i--) {
 		var object = damageGrid[# 0, i];
 		var currentHealth = object.currentHealth;
 		var applicationsRequired = damageGrid[# 2, i];

@@ -4,9 +4,10 @@
     "mvc": "1.1",
     "name": "d7bdbe2f-f22a-4406-a133-365a2b8fedbc",
     "children": [
-        "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
-        "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
-        "b394ef12-fc54-4fa9-8b19-aacdc7969a17"
+        "06edd6f6-0c72-4731-9051-6df508638c43",
+        "78044743-e38c-4409-ad2d-ade33734859b",
+        "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
+        "2a61eefa-bdba-4490-9377-0d78b0b4d9c0"
     ],
     "filterType": "GMScript",
     "folderName": "damageController",

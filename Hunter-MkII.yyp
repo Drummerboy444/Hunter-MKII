@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "06edd6f6-0c72-4731-9051-6df508638c43",
+            "Value": {
+                "id": "f29b516f-0164-4c7e-af11-808e87ce3ace",
+                "resourcePath": "scripts\\SingleAttack\\SingleAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "078cf477-2270-4023-b015-77648862e4fd",
             "Value": {
                 "id": "78341027-0608-4cdf-a68f-ff50f7ff4134",
@@ -99,6 +107,14 @@
             "Value": {
                 "id": "a25557fc-ace9-407d-be21-10d924cf96c2",
                 "resourcePath": "views\\25894bf5-6b91-4e13-85c1-77449088bc4d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a61eefa-bdba-4490-9377-0d78b0b4d9c0",
+            "Value": {
+                "id": "02896d80-ac17-42d5-bb43-b6bfc3f6ddb3",
+                "resourcePath": "views\\2a61eefa-bdba-4490-9377-0d78b0b4d9c0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -172,6 +188,14 @@
                 "id": "ddafbc93-1cd4-4083-a395-e05fd5c87904",
                 "resourcePath": "views\\7657c1e4-1d30-4b52-b53e-a03d6b923dce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78044743-e38c-4409-ad2d-ade33734859b",
+            "Value": {
+                "id": "d2ff2817-2875-4715-b2f7-11e3a167eb64",
+                "resourcePath": "scripts\\DamageOverTime\\DamageOverTime.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -447,6 +471,14 @@
             }
         },
         {
+            "Key": "e858a75b-eac5-4516-ab00-02b2c78fa904",
+            "Value": {
+                "id": "8bef79f7-895b-4a75-8852-8b448df14801",
+                "resourcePath": "views\\e858a75b-eac5-4516-ab00-02b2c78fa904.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e996b498-c6fb-4991-ab31-9e4f902b4fd9",
             "Value": {
                 "id": "fd79e954-0b3c-4aca-84cc-a3ddf84a0c2c",
@@ -495,6 +527,22 @@
             }
         },
         {
+            "Key": "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
+            "Value": {
+                "id": "541dcdaf-bc94-4dd2-a7be-3866bb06e62f",
+                "resourcePath": "scripts\\DamageOverTimeWithDecay\\DamageOverTimeWithDecay.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ff17948a-90ea-42ba-a461-580cdea1dcc7",
+            "Value": {
+                "id": "71e25030-0387-4f0f-b52b-e15706db3736",
+                "resourcePath": "views\\ff17948a-90ea-42ba-a461-580cdea1dcc7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ff64eefa-4ace-4044-89c6-df22ba642113",
             "Value": {
                 "id": "dc297d42-b56d-43ad-a7a5-78c855b7d0b3",
@@ -517,6 +565,9 @@
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
         "a94f3b28-e888-4f4a-934b-80c54a36a742",
+        "06edd6f6-0c72-4731-9051-6df508638c43",
+        "78044743-e38c-4409-ad2d-ade33734859b",
+        "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
         "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
         "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
         "b394ef12-fc54-4fa9-8b19-aacdc7969a17",
