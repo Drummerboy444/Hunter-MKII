@@ -7,7 +7,7 @@
 /// @arg decay the percentage that the damage should decay by each application, this should be given as a value
 ///      in the range [0, 1]
 /// @arg ?frequency how often the damage should be deal, this is given in steps and defaults to every seccond
-///                 if no value is given
+///      if no value is given
 var object = argument[0];
 var damage = argument[1];
 var applications = argument[2];
