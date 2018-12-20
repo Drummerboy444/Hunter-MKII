@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "06edd6f6-0c72-4731-9051-6df508638c43",
+            "Value": {
+                "id": "f29b516f-0164-4c7e-af11-808e87ce3ace",
+                "resourcePath": "scripts\\SingleAttack\\SingleAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "078cf477-2270-4023-b015-77648862e4fd",
             "Value": {
                 "id": "78341027-0608-4cdf-a68f-ff50f7ff4134",
@@ -99,6 +107,14 @@
             "Value": {
                 "id": "a25557fc-ace9-407d-be21-10d924cf96c2",
                 "resourcePath": "views\\25894bf5-6b91-4e13-85c1-77449088bc4d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a61eefa-bdba-4490-9377-0d78b0b4d9c0",
+            "Value": {
+                "id": "02896d80-ac17-42d5-bb43-b6bfc3f6ddb3",
+                "resourcePath": "views\\2a61eefa-bdba-4490-9377-0d78b0b4d9c0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "78044743-e38c-4409-ad2d-ade33734859b",
+            "Value": {
+                "id": "d2ff2817-2875-4715-b2f7-11e3a167eb64",
+                "resourcePath": "scripts\\DamageOverTime\\DamageOverTime.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7935810b-0c59-4672-8f73-6bfa24ce94fb",
             "Value": {
                 "id": "c53c8ba7-5b44-4a1e-8c88-cd6006e2a6ae",
@@ -191,6 +215,14 @@
             }
         },
         {
+            "Key": "8846aa73-4bcd-4a64-9c19-5e049fe318d9",
+            "Value": {
+                "id": "8dc2b5a9-8257-4149-8504-5fe7113ec8a2",
+                "resourcePath": "objects\\oDamageController\\oDamageController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "89b0c1ac-7315-455e-a486-fd1d3a94e003",
             "Value": {
                 "id": "e875b4ab-5998-4b7b-91a2-932d989ffcd6",
@@ -203,6 +235,14 @@
             "Value": {
                 "id": "1ead2243-75f6-4d5f-91fc-7721cd95135e",
                 "resourcePath": "views\\8e168427-1aea-4cc6-9d49-6c7fd81d18ec.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9460372f-ca76-4c14-8f75-bca27ba20573",
+            "Value": {
+                "id": "fd55a8bb-54ac-44dd-a5b1-75d9e70702ca",
+                "resourcePath": "views\\9460372f-ca76-4c14-8f75-bca27ba20573.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -271,11 +311,27 @@
             }
         },
         {
+            "Key": "b2067680-c84a-4106-a8fd-6338f02849ba",
+            "Value": {
+                "id": "f72a8c23-acd7-4567-ba8b-ca63599e444e",
+                "resourcePath": "scripts\\DeleteRow\\DeleteRow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b3609c4b-e58f-4407-adfb-406bb52f7f60",
             "Value": {
                 "id": "9c1e317e-9085-45d7-aa97-90191eb0fac9",
                 "resourcePath": "views\\b3609c4b-e58f-4407-adfb-406bb52f7f60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b394ef12-fc54-4fa9-8b19-aacdc7969a17",
+            "Value": {
+                "id": "38b2a5b1-f9f5-4807-bc86-57a6c18faf94",
+                "resourcePath": "scripts\\UpdateDamageGrid\\UpdateDamageGrid.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -327,6 +383,14 @@
             }
         },
         {
+            "Key": "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
+            "Value": {
+                "id": "95ac7b22-5154-416f-abb1-a37b93b7f333",
+                "resourcePath": "scripts\\AddToDamageGrid\\AddToDamageGrid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ca0e343e-7f6e-4276-8ce0-52ff07e059fa",
             "Value": {
                 "id": "f732aa50-3d28-4659-8670-7a6a101c929b",
@@ -355,6 +419,14 @@
             "Value": {
                 "id": "65744874-0c37-4ee2-8559-55275874c87f",
                 "resourcePath": "views\\d3738457-881e-4f12-ae58-bc0e9ec60011.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7bdbe2f-f22a-4406-a133-365a2b8fedbc",
+            "Value": {
+                "id": "07d355f7-6fb9-4e96-8042-dbc48b9f7927",
+                "resourcePath": "views\\d7bdbe2f-f22a-4406-a133-365a2b8fedbc.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -399,6 +471,14 @@
             }
         },
         {
+            "Key": "e858a75b-eac5-4516-ab00-02b2c78fa904",
+            "Value": {
+                "id": "8bef79f7-895b-4a75-8852-8b448df14801",
+                "resourcePath": "views\\e858a75b-eac5-4516-ab00-02b2c78fa904.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e996b498-c6fb-4991-ab31-9e4f902b4fd9",
             "Value": {
                 "id": "fd79e954-0b3c-4aca-84cc-a3ddf84a0c2c",
@@ -412,6 +492,14 @@
                 "id": "b7e41bd4-66e5-49ac-a914-3167d8f838f1",
                 "resourcePath": "views\\ead693e6-ca92-4c90-92d8-3f7fc24cc66d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
+            "Value": {
+                "id": "c1ccfb3e-0249-4c4a-b243-662e025fb416",
+                "resourcePath": "scripts\\DealDamage\\DealDamage.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -439,6 +527,22 @@
             }
         },
         {
+            "Key": "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
+            "Value": {
+                "id": "541dcdaf-bc94-4dd2-a7be-3866bb06e62f",
+                "resourcePath": "scripts\\DamageOverTimeWithDecay\\DamageOverTimeWithDecay.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ff17948a-90ea-42ba-a461-580cdea1dcc7",
+            "Value": {
+                "id": "71e25030-0387-4f0f-b52b-e15706db3736",
+                "resourcePath": "views\\ff17948a-90ea-42ba-a461-580cdea1dcc7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ff64eefa-4ace-4044-89c6-df22ba642113",
             "Value": {
                 "id": "dc297d42-b56d-43ad-a7a5-78c855b7d0b3",
@@ -460,7 +564,14 @@
         "cb865fb2-327c-4443-a65b-eb74f861e4c9",
         "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
-        "a94f3b28-e888-4f4a-934b-80c54a36a742"
+        "a94f3b28-e888-4f4a-934b-80c54a36a742",
+        "06edd6f6-0c72-4731-9051-6df508638c43",
+        "78044743-e38c-4409-ad2d-ade33734859b",
+        "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
+        "c4fb4aa9-c71a-4650-9cd0-f27ba2e79d36",
+        "eae97eb9-0cd1-47f7-b34e-ee4fe42c63eb",
+        "b394ef12-fc54-4fa9-8b19-aacdc7969a17",
+        "b2067680-c84a-4106-a8fd-6338f02849ba"
     ],
     "tutorial": ""
 }
