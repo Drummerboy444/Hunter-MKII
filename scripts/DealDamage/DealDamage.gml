@@ -19,6 +19,7 @@ with (oDamageController) {
 			var deceyPercent = ds_grid_get(damageGrid, 4, i);
 			var damage = ds_grid_get(damageGrid, 1, i);
 			var damageToDeal = damage * power(1 - deceyPercent, applications);
+			damageToDeal = floor(damageToDeal);
 
 			targetObject.currentHealth -= damageToDeal;
 		}
