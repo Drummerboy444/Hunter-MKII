@@ -3,8 +3,7 @@
 /// @arg object The object to be added to the damage grid
 /// @arg damage The initial ammount of damage to be applied
 /// @arg applicationsRequired The ammount of times the damage should be applied
-/// @arg deceyPercent The ammount that the damage should decrese by each application, given as a value in the
-///      range [0, 1]
+/// @arg deceyPercent The ammount that the damage should decrese by each application, given as a percent in [0, 100]
 /// @arg damageInterval The time period between applications of the damage, given in frames
 var object = argument[0];
 var damage = argument[1];
