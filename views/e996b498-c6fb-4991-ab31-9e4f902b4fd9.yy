@@ -8,7 +8,7 @@
         "8e168427-1aea-4cc6-9d49-6c7fd81d18ec"
     ],
     "filterType": "GMScript",
-    "folderName": "collidable",
+    "folderName": "Collidable",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

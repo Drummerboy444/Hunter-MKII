@@ -10,7 +10,7 @@
         "2a61eefa-bdba-4490-9377-0d78b0b4d9c0"
     ],
     "filterType": "GMScript",
-    "folderName": "damageController",
+    "folderName": "Damage",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

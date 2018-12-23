@@ -8,7 +8,7 @@
         "0d0d83b3-f76f-4d54-ac69-21bb810a14f1"
     ],
     "filterType": "GMObject",
-    "folderName": "collidable",
+    "folderName": "Collidable",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

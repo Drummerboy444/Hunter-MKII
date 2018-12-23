@@ -9,7 +9,7 @@
         "89b0c1ac-7315-455e-a486-fd1d3a94e003"
     ],
     "filterType": "GMObject",
-    "folderName": "healthy",
+    "folderName": "Healthy",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

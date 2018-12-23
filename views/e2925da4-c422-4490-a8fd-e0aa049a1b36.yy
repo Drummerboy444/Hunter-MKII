@@ -9,7 +9,7 @@
         "e996b498-c6fb-4991-ab31-9e4f902b4fd9"
     ],
     "filterType": "GMScript",
-    "folderName": "unit",
+    "folderName": "Unit",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
