@@ -1,9 +1,10 @@
+/// @description Chnage controller
 switch (controlMode) {
 	case ControlMode.HUNTER:
-		with oHunter WASDMove();
+		HawkControls();
 		break;
 	case ControlMode.HAWK:
-		with oHawk WASDMove();
+		HunterControls();
 		break;
 	case ControlMode.PERCHED:
 		break;

@@ -1,6 +1,7 @@
 // --- Who's in control ---
-enum Controllable {
+enum ControlMode {
 	HUNTER,
-	HAWK
+	HAWK,
+	PERCHED
 }
-controlling = Controllable.HUNTER;
+controlMode = ControlMode.HUNTER;
