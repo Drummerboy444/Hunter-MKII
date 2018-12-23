@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "dcd4b6c0-fc0b-4f91-ab51-079225c96975",
+            "Value": {
+                "id": "fbf2afc9-d0d3-4f31-8517-64db4db51f9d",
+                "resourcePath": "sounds\\sndHawkScreech\\sndHawkScreech.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "dfdeeb56-7eb8-4d70-9790-a931dc98a02c",
             "Value": {
                 "id": "68e49860-28ad-40c0-acae-25c3a1671cca",
