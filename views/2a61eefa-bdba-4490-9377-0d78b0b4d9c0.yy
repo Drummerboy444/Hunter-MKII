@@ -9,7 +9,7 @@
         "b394ef12-fc54-4fa9-8b19-aacdc7969a17"
     ],
     "filterType": "GMScript",
-    "folderName": "Internal",
+    "folderName": "Private",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

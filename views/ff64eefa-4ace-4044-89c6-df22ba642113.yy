@@ -9,7 +9,7 @@
         "0445cf34-1be7-4adb-96e3-b882aef3c9ef"
     ],
     "filterType": "GMObject",
-    "folderName": "unit",
+    "folderName": "Unit",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -5,7 +5,8 @@ movementAngle = 0;
 
 // --- Follow ---
 target = noone;
-followBufferDistance = 50;
+maxFollowBufferDistance = 50;
+currentFollowBufferDistance = maxFollowBufferDistance;
 
 // --- Unit Mode ---
 enum UnitMode {

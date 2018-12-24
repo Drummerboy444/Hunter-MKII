@@ -10,7 +10,7 @@
         "3466d8f3-4c44-474a-8165-719b9176830e"
     ],
     "filterType": "GMScript",
-    "folderName": "healthy",
+    "folderName": "Healthy",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
