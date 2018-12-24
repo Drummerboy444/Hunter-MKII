@@ -7,6 +7,6 @@ switch (controlMode) {
 		HunterControls();
 		break;
 	case ControlMode.PERCHED:
-		HunterControls();
+		HunterControls();	
 		break;
 }

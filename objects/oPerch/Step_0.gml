@@ -1,5 +1,5 @@
-var perchWithinRange = PerchWithinRange(id);
+var perchIsWithinRange = PerchIsWithinRange(id);
 var hawkControlling = GetControlMode() == ControlMode.HAWK;
-sprite_index = hawkControlling && perchWithinRange
+sprite_index = hawkControlling && perchIsWithinRange
 	? sPerchActive
 	: sPerchInactive;

@@ -1,4 +1,4 @@
-/// @description PerchWithinRange(perch) Returns true if the perch is within reange of the hawk
+/// @description PerchIsWithinRange(perch) Returns true if the perch is within range of the hawk
 /// @arg perch the id of the perch to check the range against
 var perch = argument[0];
 

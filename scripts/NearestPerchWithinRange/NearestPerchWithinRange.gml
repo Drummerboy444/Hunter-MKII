@@ -4,7 +4,7 @@
 
 var inRange = ds_list_create();
 with (oPerch) {
-	if (PerchWithinRange(id)) {
+	if (PerchIsWithinRange(id)) {
 		ds_list_add(inRange, id);
 	}
 }
