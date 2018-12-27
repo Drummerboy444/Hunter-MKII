@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "499d645d-1ded-453c-8af5-28bb6caace83",
+            "Value": {
+                "id": "4d1898b7-d28b-4b9d-bfb2-e3153510077c",
+                "resourcePath": "objects\\oProjectile\\oProjectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57b77437-cf22-4839-9240-f225a4fe8c6b",
             "Value": {
                 "id": "50c17f3e-f513-4d68-a87a-de27bd958a83",
@@ -452,6 +460,14 @@
                 "id": "78b34828-4c04-475a-8c02-994952bc4947",
                 "resourcePath": "scripts\\IsSolidFollow\\IsSolidFollow.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a32f6b36-2406-4fd3-a9fc-06242a888165",
+            "Value": {
+                "id": "31fb64a7-4938-41bf-af75-8ce84bd01095",
+                "resourcePath": "views\\a32f6b36-2406-4fd3-a9fc-06242a888165.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -743,6 +759,14 @@
             }
         },
         {
+            "Key": "f2cbcb38-40a4-4b65-82c7-b55ce351c134",
+            "Value": {
+                "id": "0eded3f7-bbc9-4857-b70b-7f5a09e72d48",
+                "resourcePath": "scripts\\SetupProjectile\\SetupProjectile.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f3f55ccc-c1c2-40be-adff-56f94e351e3d",
             "Value": {
                 "id": "7c9ff3d0-f9ed-4731-babf-4fdebb73f0b1",
@@ -755,6 +779,14 @@
             "Value": {
                 "id": "e1c838c9-3fe6-44e1-a60a-88606e6775c6",
                 "resourcePath": "views\\f746b3e5-a812-4253-98c9-64783a991ebd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc7f9f34-fcbd-4424-a4b0-23982063c4e9",
+            "Value": {
+                "id": "a0b5cfd3-d963-45b5-a521-e3f6e6aee272",
+                "resourcePath": "views\\fc7f9f34-fcbd-4424-a4b0-23982063c4e9.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -799,6 +831,7 @@
         "cb865fb2-327c-4443-a65b-eb74f861e4c9",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
         "a94f3b28-e888-4f4a-934b-80c54a36a742",
+        "f2cbcb38-40a4-4b65-82c7-b55ce351c134",
         "06edd6f6-0c72-4731-9051-6df508638c43",
         "78044743-e38c-4409-ad2d-ade33734859b",
         "fd93d0b3-7178-44b8-85a2-6f384e66c25f",
