@@ -458,7 +458,7 @@
             "Key": "a2dee8f8-9c42-4f5f-bf5b-bbe63ba8366c",
             "Value": {
                 "id": "78b34828-4c04-475a-8c02-994952bc4947",
-                "resourcePath": "scripts\\IsSolidFollow\\IsSolidFollow.yy",
+                "resourcePath": "scripts\\SolidFollow\\SolidFollow.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -671,14 +671,6 @@
             }
         },
         {
-            "Key": "d99a253e-724c-4d0a-8a66-04d940f3c89b",
-            "Value": {
-                "id": "e9098376-0a7e-44a7-9b47-a5e0e2a029a7",
-                "resourcePath": "views\\d99a253e-724c-4d0a-8a66-04d940f3c89b.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "dcd4b6c0-fc0b-4f91-ab51-079225c96975",
             "Value": {
                 "id": "fbf2afc9-d0d3-4f31-8517-64db4db51f9d",
@@ -754,7 +746,7 @@
             "Key": "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
             "Value": {
                 "id": "14dc54c4-b510-4850-8519-d6a6d583d7fb",
-                "resourcePath": "scripts\\IsSolidMove\\IsSolidMove.yy",
+                "resourcePath": "scripts\\SolidMove\\SolidMove.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -764,6 +756,14 @@
                 "id": "0eded3f7-bbc9-4857-b70b-7f5a09e72d48",
                 "resourcePath": "scripts\\SetupProjectile\\SetupProjectile.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f3ecf61e-7499-4339-b465-c1da670dea54",
+            "Value": {
+                "id": "efca4271-7499-411f-8a7a-bb547c788fb6",
+                "resourcePath": "views\\f3ecf61e-7499-4339-b465-c1da670dea54.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -822,11 +822,11 @@
         "9f0df2d3-ad62-4160-ae04-e5bc2ac75b15",
         "c4edff84-2a42-4fc8-a30d-0bc00122a9ab",
         "98123fa4-aae4-491e-840d-da731baf221e",
+        "b64a1f1b-6a8f-4997-bc44-80148796316e",
         "eb3bfa40-ddd0-4de3-b103-d79badb8f759",
         "a2dee8f8-9c42-4f5f-bf5b-bbe63ba8366c",
         "ad89a4c8-fe00-442e-9288-1d7074c6a88c",
         "c163cbd9-782a-4042-a015-07f01d4cda96",
-        "b64a1f1b-6a8f-4997-bc44-80148796316e",
         "af6ea8b4-e3f0-4990-a1ff-806e490399e8",
         "cb865fb2-327c-4443-a65b-eb74f861e4c9",
         "c4f4b16b-7a8f-4878-bda8-b6172e1fe8e4",
