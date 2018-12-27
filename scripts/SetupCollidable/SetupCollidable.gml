@@ -10,4 +10,3 @@ var unitMode = argument[2];
 var maxFollowBufferDistance = argument[3];
 
 SetupUnit(maxMovementSpeed, target, unitMode, maxFollowBufferDistance);
-isSolid = true;

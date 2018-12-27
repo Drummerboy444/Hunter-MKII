@@ -1,4 +1,4 @@
-/// @description IsSolidMove(speed, angle) Moves the calling unit accordingly
+/// @description SolidMove(speed, angle) Moves the calling unit accordingly
 /// @arg speed The speed to move the unit at
 /// @arg angle The angle to move the unit at
 var _speed = argument[0];

@@ -15,6 +15,3 @@ enum UnitMode {
 	IDLE
 }
 unitMode = UnitMode.IDLE;
-
-// --- Physics ---
-isSolid = false;   // Default is false, this is set to true for the collidable objects
