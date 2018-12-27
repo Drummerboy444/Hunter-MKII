@@ -1,15 +1,12 @@
-/// @description SetupProjectile(projectileSpeed, projectileDirection, lifetime, ?target) Helper script for
-/// setting the important variables of a projectile
-/// @arg projectileSpeed the speed of the projectile
-/// @arg projectileDirection the direction of the projectile
+/// @description SetupProjectile(lifetime, hitScript ?ignore) Helper script for setting the important
+/// variables of a projectile
 /// @arg lifetime the number of steps that the projectile should exist for. After this it will be destroyed
-/// @arg ?target an optional target, if this is set then the projectile will seek towards the target
-var projectileSpeed = argument[0];
-var projectileDirection = argument[1];
-lifetime = argument[2];
-var target = argument_count == 4 ? argument[3] : noone;
+/// @arg hitScript the script to be run if the projectile hits an oColladable. The script must itself define
+///      if and how the target gets damaged
+/// @arg ?ignore types of object to not detect hits againts, defaults to noone
+lifetime = argument[0];
+hitScript = argument[1];
+ignore = argument_count >= 3 ? argument[2] : noone;
 
 
-var _unitMode = target == noone ? UnitMode.MOVE : UnitMode.FOLLOW;
-SetupUnit(projectileSpeed, target, _unitMode, 0);
-movementAngle = projectileDirection;
+SetupUnit(0, noone, UnitMode.IDLE, 0);

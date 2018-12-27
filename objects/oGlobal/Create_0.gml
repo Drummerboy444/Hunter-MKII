@@ -1,9 +1,9 @@
 // --- Tracking the room speed ---
-enum Speed {
+enum WorldSpeed {
 	NORMAL,
 	SLOW
 }
-currentSpeed = Speed.NORMAL;
+worldSpeed = WorldSpeed.NORMAL;
 normalSpeed = 60;
 slowSpeed = 30;
 

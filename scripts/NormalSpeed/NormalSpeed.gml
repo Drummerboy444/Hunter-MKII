@@ -2,4 +2,4 @@
 
 
 room_speed = oGlobal.normalSpeed;
-oGlobal.currentSpeed = Speed.NORMAL;
+oGlobal.worldSpeed = WorldSpeed.NORMAL;
