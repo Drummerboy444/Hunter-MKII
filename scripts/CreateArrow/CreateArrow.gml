@@ -12,4 +12,5 @@ var arrowDirection = argument[3];
 var arrow = instance_create_layer(_x, _y, "Instances", oArrow);
 with (arrow) {
 	SetMoving(arrowSpeed, arrowDirection);
+	image_angle = arrowDirection;
 }
