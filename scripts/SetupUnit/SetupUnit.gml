@@ -1,5 +1,5 @@
 /// @description SetupUnit(maxMovementSpeed, target, unitMode, maxFollowBufferDistance) Helper script for setting
-/// the import variables of a unit
+/// the important variables of a unit
 /// @arg maxMovementSpeed The maximum movement speed of the unit
 /// @arg target The target unit should the unit be following something
 /// @arg unitMode The unit's starting unit mode
