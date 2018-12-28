@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "4d4e5acd-0131-4d7b-bf8d-335a499829a9",
+            "Value": {
+                "id": "312f4eaf-b1db-43f1-94d7-c70dc0f55e30",
+                "resourcePath": "views\\4d4e5acd-0131-4d7b-bf8d-335a499829a9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "57b77437-cf22-4839-9240-f225a4fe8c6b",
             "Value": {
                 "id": "50c17f3e-f513-4d68-a87a-de27bd958a83",
@@ -403,6 +411,14 @@
             "Value": {
                 "id": "0b68a7d4-50c8-497e-abc3-77b9f6bba7c6",
                 "resourcePath": "scripts\\SetFollowing\\SetFollowing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7e23280e-01c6-4202-8b99-1b071c7ece93",
+            "Value": {
+                "id": "a36dbc1d-c4a2-40bd-9d38-923eae72dbf7",
+                "resourcePath": "scripts\\SetLifetimeAlarm\\SetLifetimeAlarm.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -945,6 +961,7 @@
         "a94f3b28-e888-4f4a-934b-80c54a36a742",
         "f2cbcb38-40a4-4b65-82c7-b55ce351c134",
         "1cc6a597-a4bd-4521-a239-74bd813de971",
+        "7e23280e-01c6-4202-8b99-1b071c7ece93",
         "97b5dba0-685a-4f11-9c88-bb3d19a1ac3a",
         "b899c3a6-8e7e-457f-a728-5efc35bc9cb7",
         "06edd6f6-0c72-4731-9051-6df508638c43",

@@ -10,3 +10,4 @@ ignore = argument_count >= 3 ? argument[2] : noone;
 
 
 SetupUnit(0, noone, UnitMode.IDLE, 0);
+SetLifetimeAlarm(id, lifetime);

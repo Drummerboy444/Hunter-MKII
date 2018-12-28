@@ -2,5 +2,5 @@
 event_inherited();
 
 lifetime = 0;
-hitScript = DefaultDeathScript;
+hitScript = DefaultHitScript;
 ignore = noone;

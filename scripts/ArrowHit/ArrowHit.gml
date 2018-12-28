@@ -3,7 +3,7 @@
 var hit = argument[0];
 
 
-if (InstanceOfOrChild(hit.object_index, oEnemy)) {
+if (hit != noone && InstanceOfOrChild(hit.object_index, oEnemy)) {
 	SingleAttack(hit, 3);
 }
 instance_destroy();

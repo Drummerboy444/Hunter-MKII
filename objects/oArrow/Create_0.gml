@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-SetupProjectile(100, ArrowHit, oHunter);
+SetupProjectile(1000, ArrowHit, oHunter);
